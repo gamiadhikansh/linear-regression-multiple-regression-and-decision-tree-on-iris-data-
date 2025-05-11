@@ -1,0 +1,1 @@
+Simple machine learning tasks like linear regression multiple regression and decision tree on the most popular basic ML dataset IRIS DATASET with basic functions and graphs and errors are also calculated 
